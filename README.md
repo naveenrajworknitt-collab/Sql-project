@@ -96,5 +96,3 @@ This demonstrates an end-to-end SQL workflow rather than a collection of isolate
 ## Project Focus
 
 This repository intentionally stops at the **SQL analytics and performance layer**.
-
-Power BI and other visualization tools are outside the scope of this SQL-only version of the project.
